@@ -14,9 +14,9 @@ L'objectif est de développer une expertise opérationnelle en :
 - **Construction** d'une méthodologie analytique robuste, adaptée aux environnements professionnels
 
 Chaque challenge comprend :
-- 📄 Un jeu de données source (CSV/Excel)
-- 🖼️ Une visualisation du résultat attendu
-- 📝 Documentation et références associées
+-  Un jeu de données source (CSV/Excel)
+-  Une visualisation du résultat attendu
+-  Documentation et références associées
  
 ## **Stack Technologique & Compétences**
 
@@ -47,7 +47,7 @@ Chaque challenge comprend :
 
 ---
 
-## 🤝 **Contribuer**
+##  **Contribuer**
 
 Les contributions sont les bienvenues !  
 Consultez `CONTRIBUTING.md` pour :
@@ -64,7 +64,7 @@ Consultez `CONTRIBUTING.md` pour :
 5. Ouverture d'une Pull Request
 
 
-## 🌟 **Pour aller plus loin**
+##  **Pour aller plus loin**
 
 | Ressource | Description | Lien |
 |-----------|-------------|------|
